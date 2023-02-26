@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+👔 Just finished the AiCore career program.
+
+📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering
+
+📊 Looking for a role as a Junior Data Engineer
+
+💻 Skilled in Python with packages such Numpy, Pandas and PySpark
+
+📝 Skilled in PostgreSQL
+
+☁️ Experience in cloud computing with AWS
+
+🔂 Created an ETL data pipeline
 <!--
 **leojohnson293/leojohnson293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
