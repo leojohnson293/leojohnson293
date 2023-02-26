@@ -2,15 +2,15 @@
 
 👔 Just finished the AiCore career program.
 
-📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering
+📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering.
 
-📊 Looking for a role as a Junior Data Engineer
+📊 Looking for a role as a Junior Data Engineer.
 
-💻 Skilled in Python with packages such Numpy, Pandas and PySpark
+💻 Skilled in Python with packages such Numpy, Pandas and PySpark.
 
-📝 Skilled in PostgreSQL
+📝 Skilled in PostgreSQL.
 
-☁️ Experience in cloud computing with AWS
+☁️ Experience in cloud computing with AWS.
 
 🔂 Created an ETL data pipeline using tools such as Kafka, Spark, Airflow.
 <!--
