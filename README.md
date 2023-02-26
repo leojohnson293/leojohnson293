@@ -12,7 +12,7 @@
 
 ☁️ Experience in cloud computing with AWS
 
-🔂 Created an ETL data pipeline
+🔂 Created an ETL data pipeline using tools such as Kafka, Spark, Airflow.
 <!--
 **leojohnson293/leojohnson293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
