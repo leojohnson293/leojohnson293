@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-👔 Just finished the AiCore career program.
+👔 Junior Data Analyst at Horstman Defense Systems Ltd.
 
-📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering.
+📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering and took part in the AiCore career program.
 
 📊 Looking for a role as a Junior Data Engineer.
 
-💻 Skilled in Python with packages such Numpy, Pandas and PySpark.
+💻 Knows languages such as Python and SQL.
 
-📝 Skilled in PostgreSQL.
-
-☁️ Experience in cloud computing with AWS.
+☁️ Experience in cloud platforms such as AWS and Azure.
 
 🔂 Created a data processing pipeline using tools such as Kafka, Spark, Airflow.
 <!--
