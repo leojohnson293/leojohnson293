@@ -4,8 +4,6 @@
 
 📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering and took part in the AiCore career program.
 
-📊 Looking for a role as a Junior Data Engineer.
-
 💻 Knows languages such as Python and SQL.
 
 ☁️ Experience in cloud platforms such as AWS and Azure.
