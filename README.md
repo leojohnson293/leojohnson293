@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👔 Junior Data Analyst at Horstman Defense Systems Ltd.
+👔 Data Analyst at Horstman Defense Systems Ltd.
 
 📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering and took part in the AiCore career program.
 
