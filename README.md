@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👔 Data Analyst at Horstman Defense Systems Ltd.
+👔 Data Engineer at Elemis.
 
 📚 Graduated from the University of Leicester with an MEng in Aerospace Engineering and took part in the AiCore career program.
 
